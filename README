@@ -16,3 +16,16 @@ A simple Python-based web scraper for finding subdomains of a given website by s
 
 ```bash
 pip install -r requirements.txt
+
+#🔧 Usage
+- 1 Clone the repository:
+git clone https://github.com/kushw-cloud/web_scraper.git
+cd web_scraper
+
+- 2 Run the script:
+python scraper.py 
+
+Enter the URL 
+
+DONE
+
