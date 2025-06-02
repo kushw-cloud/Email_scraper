@@ -1,0 +1,18 @@
+# 🕷️ Subdomain Web Scraper
+
+A simple Python-based web scraper for finding subdomains of a given website by scanning publicly available sources. Built as a lightweight alternative to traditional subdomain enumeration tools.
+
+## 🚀 Features
+
+- Easy to use and lightweight
+- Written in Python using `requests` and `BeautifulSoup`
+- Fetches subdomains from public sources like `crt.sh` and others
+- Great for recon or as a fallback tool during CTFs and pentests
+
+## 📦 Requirements
+
+- Python 3.x
+- Required packages:
+
+```bash
+pip install -r requirements.txt
